@@ -1,0 +1,9 @@
+{
+  "name": "tracker-made-easy",
+  "version": "2.0.0",
+  "description": "Retail KPI Tracker & Shift Manager by Vysakh",
+  "private": true,
+  "dependencies": {
+    "@netlify/blobs": "^8.0.0"
+  }
+}
